@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://understanding-opportunities-438227.framer.app/sitemap.xml
